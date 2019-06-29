@@ -48,4 +48,23 @@ export default {
       outline:0;
     }
   }
+
+
+  .vdatetime-input { 
+    width: 100%;
+    padding: 10px 18px;
+    font-size: 18px;
+    margin-bottom: 16px;
+
+    border: rgb(238, 238, 238) solid 1px;
+
+    &:focus {
+      outline: 0;
+    }
+  }
+
+  .onset_booking_form {
+
+  }
+
 </style>
