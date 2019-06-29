@@ -15,23 +15,24 @@ export default {
 
 <style>
 * {
-  box-sizing: border-box;
+  box-sizing: border-box; 
+}
+
+body {
+  background-image: url('./assets/sun_sunset_background.jpg');
 }
 
 .container {
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
-  background-color: aliceblue;
-  background-image: url('./assets/Hotels_Resort.jpg')
 }
 
 #booking-app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /*text-align: center;*/
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 220px;
 }
 
 .logo {
