@@ -19,9 +19,10 @@ export default {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 800px;
   margin: 0 auto;
   background-color: aliceblue;
+  background-image: url('./assets/Hotels_Resort.jpg')
 }
 
 #booking-app {
